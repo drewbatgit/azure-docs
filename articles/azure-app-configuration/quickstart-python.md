@@ -13,7 +13,7 @@ ms.author: drewbat
 ---
 # Quickstart: Use Azure App Configuration with Python
 
-In this quickstart, you access the Azure App Configuration service from Python in order to centralize storage and management of application settings separate from your code.
+In this quickstart, you access the Azure App Configuration service from Python in order to centralize storage and management of application settings separate from your code. For more information, see [Azure App Configuration client library for Python](https://github.com/Azure/azure-sdk-for-python/tree/master/sdk/appconfiguration/azure-appconfiguration)
 
 ## Prerequisites
 
